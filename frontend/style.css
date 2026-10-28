@@ -1,0 +1,13 @@
+/* TODO: Expand the visual system for dashboard, audit, and pricing views. */
+:root {
+  font-family: system-ui, sans-serif;
+  color: #172033;
+  background: #f6f8fb;
+}
+
+main {
+  max-width: 960px;
+  margin: 4rem auto;
+  padding: 2rem;
+  background: #ffffff;
+}
