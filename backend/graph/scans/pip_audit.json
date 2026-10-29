@@ -1,0 +1,1105 @@
+{
+  "dependencies": [
+    {
+      "name": "Flask",
+      "version": "2.0.1",
+      "vulns": [
+        {
+          "id": "GHSA-68rp-wp8r-4726",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Flask",
+      "version": "2.0.1",
+      "vulns": [
+        {
+          "id": "GHSA-m2qf-hxjv-5gpq",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Flask",
+      "version": "2.0.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2023-62",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Flask",
+      "version": "2.0.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-2151",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.19.1",
+      "vulns": [
+        {
+          "id": "GHSA-9hjg-9r4m-mvj7",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.19.1",
+      "vulns": [
+        {
+          "id": "GHSA-9wx4-h78v-vm56",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.19.1",
+      "vulns": [
+        {
+          "id": "GHSA-gc5v-m9x4-r6x2",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.19.1",
+      "vulns": [
+        {
+          "id": "GHSA-j8r2-6x86-q33q",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.19.1",
+      "vulns": [
+        {
+          "id": "GHSA-x84v-xcm2-53pg",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.19.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2018-28",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.19.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2023-74",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.19.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1872",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.19.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1873",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.19.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-2275",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PyYAML",
+      "version": "5.1",
+      "vulns": [
+        {
+          "id": "GHSA-3pqx-4fqf-j49f",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PyYAML",
+      "version": "5.1",
+      "vulns": [
+        {
+          "id": "GHSA-6757-jp84-gxfx",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PyYAML",
+      "version": "5.1",
+      "vulns": [
+        {
+          "id": "GHSA-8q59-q68h-6hv4",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PyYAML",
+      "version": "5.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2020-176",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PyYAML",
+      "version": "5.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2020-96",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "PyYAML",
+      "version": "5.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2021-142",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-2xpw-w6gg-jr37",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-34jh-p97f-mpxf",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-38jv-5279-wg99",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-g4mx-q9vg-27p4",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-gm62-xv2j-4w53",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-gwvm-45gx-3cf8",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-mh33-7rrq-662w",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-pq67-6m6q-mj2v",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-qccp-gfcp-xxvc",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-r64q-w8jr-g9qp",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-v845-jxx5-vc9f",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-vxq7-64xx-v4gw",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "GHSA-wqvq-5m8c-6g24",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2019-132",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2019-133",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2020-148",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2023-192",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2023-207",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2023-212",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-141",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1994",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1995",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1996",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1998",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1999",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.24.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-4177",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "version": "2.10.1",
+      "vulns": [
+        {
+          "id": "GHSA-cpwx-vrp4-4pq7",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "version": "2.10.1",
+      "vulns": [
+        {
+          "id": "GHSA-g3rq-g295-4j3m",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "version": "2.10.1",
+      "vulns": [
+        {
+          "id": "GHSA-h5c8-rqwp-cp95",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "version": "2.10.1",
+      "vulns": [
+        {
+          "id": "GHSA-h75v-3vvj-5mfj",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "version": "2.10.1",
+      "vulns": [
+        {
+          "id": "GHSA-q2x7-8rv6-6q7h",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "version": "2.10.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2021-66",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "version": "2.10.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1471",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "version": "2.10.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1473",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "version": "2.10.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1474",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "version": "2.10.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1475",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "GHSA-29vq-49wr-vm6x",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "GHSA-2g68-c3qc-8985",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "GHSA-87hc-h4r5-73f7",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "GHSA-f9vj-2wh5-fj8j",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "GHSA-g6x2-hccm-hh4m",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "GHSA-gq9m-qvpx-68hc",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "GHSA-hgf8-39gv-g3f2",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "GHSA-j544-7q9p-6xp8",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "GHSA-px8h-6qxv-m22q",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "GHSA-xg9f-g7g7-2323",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2019-140",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2022-203",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2023-221",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2023-57",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2023-58",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1065",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-2043",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-2044",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-2045",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-2046",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-2320",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "0.14.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-4312",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "GHSA-3ww4-gg4f-jr7f",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "GHSA-537c-gmf6-5ccf",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "GHSA-5cpq-8wj7-hf2v",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "GHSA-9v9h-cgj8-h64p",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "GHSA-fcf9-3qw3-gxmj",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "GHSA-hggm-jpg3-v476",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "GHSA-jm77-qphf-c4w8",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "GHSA-m959-cc7f-wv43",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "GHSA-r6ph-v2qm-q3c2",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "GHSA-w7pp-m8wf-vj6r",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "GHSA-x4qr-2fvf-3mr5",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2018-52",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2021-62",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2023-11",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2024-225",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1283",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-1285",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-2141",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-35",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-3553",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-3554",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "2.1",
+      "vulns": [
+        {
+          "id": "PYSEC-2026-800",
+          "summary": "",
+          "severity": "unknown"
+        }
+      ]
+    }
+  ],
+  "source": "osv.dev"
+}
