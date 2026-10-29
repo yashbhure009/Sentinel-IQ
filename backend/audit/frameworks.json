@@ -1,0 +1,22 @@
+{
+  "ISO 27001": [
+    {"control_id": "A.8.24", "title": "Use of cryptography", "finding_types": ["unencrypted_storage", "weak_tls"]},
+    {"control_id": "A.8.3", "title": "Information access restriction", "finding_types": ["public_s3_bucket", "overly_permissive_iam"]},
+    {"control_id": "A.8.20", "title": "Networks security", "finding_types": ["open_security_group", "open_port"]},
+    {"control_id": "A.8.9", "title": "Configuration management", "finding_types": ["missing_logging", "open_port"]},
+    {"control_id": "A.5.15", "title": "Access control", "finding_types": ["overly_permissive_iam"]},
+    {"control_id": "A.8.8", "title": "Management of technical vulnerabilities", "finding_types": ["vulnerable_dependency"]},
+    {"control_id": "A.5.17", "title": "Authentication information", "finding_types": ["hardcoded_secret"]},
+    {"control_id": "A.8.16", "title": "Monitoring activities", "finding_types": ["missing_logging"]}
+  ],
+  "NIST SP 800-53": [
+    {"control_id": "SC-28", "title": "Protection of information at rest", "finding_types": ["unencrypted_storage"]},
+    {"control_id": "SC-8", "title": "Transmission confidentiality and integrity", "finding_types": ["weak_tls"]},
+    {"control_id": "AC-3", "title": "Access enforcement", "finding_types": ["public_s3_bucket"]},
+    {"control_id": "SC-7", "title": "Boundary protection", "finding_types": ["open_security_group", "open_port"]},
+    {"control_id": "AC-6", "title": "Least privilege", "finding_types": ["overly_permissive_iam"]},
+    {"control_id": "RA-5", "title": "Vulnerability monitoring and scanning", "finding_types": ["vulnerable_dependency"]},
+    {"control_id": "IA-5", "title": "Authenticator management", "finding_types": ["hardcoded_secret"]},
+    {"control_id": "AU-2", "title": "Event logging", "finding_types": ["missing_logging"]}
+  ]
+}
