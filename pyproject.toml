@@ -1,0 +1,18 @@
+[project]
+name = "sentineliq"
+version = "0.1.0"
+description = "Self-hosted compliance scanner"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+    "checkov",
+]
+
+[project.scripts]
+sentinelIQ = "cli:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
