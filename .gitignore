@@ -25,3 +25,18 @@ build/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Backups
+*.backup
+*.bak
+*.bak2
+
+# Temp scan output
+checkov.json/
+findings.json
+/tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
