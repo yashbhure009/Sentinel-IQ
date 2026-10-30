@@ -1,5 +1,8 @@
 fastapi
-uvicorn
-python-dotenv
+uvicorn[standard]
 pydantic
+python-dotenv
 httpx
+python-nmap
+socket-sdk-python
+checkov

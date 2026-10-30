@@ -1,13 +1,78 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>SentinelIQ</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <main><h1>SentinelIQ</h1><p>Security intelligence dashboard placeholder.</p></main>
-    <script src="app.js"></script>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SentinelIQ — Security Compliance Platform</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>🛡️ SentinelIQ</h1>
+      <p class="subtitle">AI-Powered Cybersecurity Compliance &amp; Security Intelligence</p>
+    </div>
+    <div class="stats" id="stats">
+      <span id="stat-findings">— findings</span>
+      <span id="stat-agents">8 agents</span>
+    </div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab active" data-view="findings">Findings</button>
+    <button class="tab" data-view="agents">AI Agents</button>
+    <button class="tab" data-view="audit">Audit Report</button>
+  </nav>
+
+  <main>
+    <section id="view-findings" class="view active">
+      <div class="toolbar">
+        <input id="filter-search" type="text" placeholder="Search findings..." />
+        <select id="filter-type">
+          <option value="">All types</option>
+        </select>
+        <select id="filter-severity">
+          <option value="">All severities</option>
+          <option value="critical">Critical</option>
+          <option value="high">High</option>
+          <option value="medium">Medium</option>
+          <option value="low">Low</option>
+        </select>
+      </div>
+      <div id="findings-list" class="findings-list">
+        <p class="loading">Loading findings...</p>
+      </div>
+    </section>
+
+    <section id="view-agents" class="view">
+      <div class="agents-grid" id="agents-grid">
+        <p class="loading">Loading agents...</p>
+      </div>
+      <div id="agent-output" class="agent-output hidden">
+        <div class="agent-output-header">
+          <h2 id="agent-output-title">Agent Output</h2>
+          <button onclick="closeAgentOutput()">✕</button>
+        </div>
+        <pre id="agent-output-body"></pre>
+      </div>
+    </section>
+
+    <section id="view-audit" class="view">
+      <div class="audit-controls">
+        <select id="audit-framework">
+          <option value="ISO 27001">ISO 27001</option>
+          <option value="NIST SP 800-53">NIST SP 800-53</option>
+        </select>
+        <button id="run-audit-btn">Run Audit</button>
+      </div>
+      <div id="audit-result"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>SentinelIQ — Scanned by Checkov + OSV | Mapped deterministically | Demo target: <a href="https://github.com/Yash150406/acme-payments-demo" target="_blank">acme-payments-demo</a></p>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
 </html>
