@@ -13,6 +13,7 @@ app.add_middleware(
 
 from backend.graph.router import router as graph_router
 from backend.audit.router import router as audit_router
+from backend.agents.registry import AGENTS
 
 app.include_router(graph_router)
 app.include_router(audit_router)
@@ -27,3 +28,16 @@ except Exception:
 @app.get("/health")
 def health_check() -> dict:
     return {"status": "ok"}
+
+
+@app.get("/agents")
+def list_agents():
+    return [a.info() for a in AGENTS.values()]
+
+
+@app.post("/agents/{name}/run")
+def run_agent(name: str, context: dict = {}):
+    agent = AGENTS.get(name)
+    if not agent:
+        return {"error": "unknown agent", "available": list(AGENTS.keys())}
+    return agent.run(context)
