@@ -11,14 +11,13 @@ RUN pip install --no-cache-dir checkov
 
 COPY backend ./backend
 COPY frontend ./frontend
-
-# Startup script clones demo repo at runtime
 COPY start.sh /app/start.sh
+
 RUN chmod +x /app/start.sh
 
 EXPOSE 10000
 
-HEALTHCHECK --interval=30s --timeout=3s --start-period=60s \
+HEALTHCHECK --interval=30s --timeout=3s --start-period=90s \
     CMD curl -f http://localhost:${PORT:-10000}/health || exit 1
 
 CMD ["/app/start.sh"]
